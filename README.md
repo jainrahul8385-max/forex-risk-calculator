@@ -14,3 +14,5 @@ A simple forex risk management calculator for traders.
 
 ## Purpose
 Built as a lightweight open-source utility for forex traders.
+for demo click here copy this link to new tab
+https://vm-7fngkbk843mkyulpofguyhka.vusercontent.net/
